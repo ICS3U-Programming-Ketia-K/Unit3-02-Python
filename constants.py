@@ -1,0 +1,1 @@
+RIGHT_NUMBER = 2
